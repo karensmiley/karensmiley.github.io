@@ -3,7 +3,7 @@
 ### Current site pages:
 * [README](https://karensmiley.github.io/manager-README/index.html) - my 'manager README'; archival - comments welcome
 
-### Current repositories: (not yet public)
+### Current personal repositories: (not yet public)
 
 Project | Contents | Implementation
 ------- | -------- | --------------
