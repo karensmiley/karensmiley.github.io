@@ -1,7 +1,7 @@
-# Welcome to Agile Teams on Github!
+# Welcome to Karen Smiley's Github!
 
 ### Current site pages:
-* [README](https://agileteams.github.io/manager-README/index.html) - my 'manager README'; work in progress - feedback welcome
+* [README](https://karensmiley.github.io/manager-README/index.html) - my 'manager README'; archival - comments welcome
 
 ### Current repositories: (not yet public)
 
@@ -18,4 +18,4 @@ HOML | [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on
 machine&nbsp;learning | Machine learning course exercises ([IBM certificate in Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai), [EDA with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab), [Text Analytics and Predictions](https://www.linkedin.com/learning/text-analytics-and-predictions-with-python-essential-training)) | (2019-2020) Python + a little MATLAB
 data&nbsp;science | Exercises from [Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) | (2014) R
 
-Page/site owner: [Karen Smiley](https://karen.agileteams.com)
+Page/site owner: [Karen Smiley](https://karensmiley.com) 
